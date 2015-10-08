@@ -1,1 +1,2 @@
 dua
+Ini text dari git langsung
